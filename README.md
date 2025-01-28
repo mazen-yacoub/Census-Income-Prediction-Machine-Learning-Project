@@ -77,6 +77,8 @@ To make the model more accessible, a **Streamlit** app has been developed as an 
 2. Run the Streamlit app using the command `streamlit run app.py`.
 3. Open the provided URL in your web browser to access the app.
 
+[you can follow this URL to interact with the Streamlit APP](https://census-income-prediction-machine-learning-project-lbgwuhxqmqqd.streamlit.app/)
+
 ## Conclusion
 - In this project, we successfully applied various machine learning algorithms to predict whether an individual earns more than $50,000 based on census data. The AdaBoost model provided the best results overall, but all models showed strong performance. The use of proper preprocessing and understanding the assumptions of each model allowed us to optimize performance and avoid common pitfalls like overfitting and underfitting.
 - The integration of a Streamlit app with Plotly visualizations provides an interactive and user-friendly way to explore the model's predictions, making it easier for non-technical users to understand and utilize the results.
