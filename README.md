@@ -74,9 +74,8 @@ To make the model more accessible, a **Streamlit** app has been developed as an 
 
 ### How to Run the Streamlit App:
 1. Clone the repository.
-2. Install the required dependencies using `pip install -r requirements.txt`.
-3. Run the Streamlit app using the command `streamlit run app.py`.
-4. Open the provided URL in your web browser to access the app.
+2. Run the Streamlit app using the command `streamlit run app.py`.
+3. Open the provided URL in your web browser to access the app.
 
 ## Conclusion
 - In this project, we successfully applied various machine learning algorithms to predict whether an individual earns more than $50,000 based on census data. The AdaBoost model provided the best results overall, but all models showed strong performance. The use of proper preprocessing and understanding the assumptions of each model allowed us to optimize performance and avoid common pitfalls like overfitting and underfitting.
